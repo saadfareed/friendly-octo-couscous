@@ -6,4 +6,11 @@ I am 21 years of age
 I am computer Science student
 <br>
 I am sadi the voice
+<<<<<<< HEAD
 #add
+=======
+<br>
+how are you let's talk
+<hr>
+nice one
+>>>>>>> saad
